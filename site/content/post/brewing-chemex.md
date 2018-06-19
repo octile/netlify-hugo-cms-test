@@ -1,5 +1,5 @@
 ---
-title: A advanced’ guide to brewing with Chemex
+title: A advanced’ guide to printing with NinjaFlex
 date: '2017-03-23T16:04:10+01:00'
 description: >-
   Printing with a Chemex probably seems like a complicated, time-consuming
